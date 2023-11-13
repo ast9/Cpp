@@ -14,4 +14,12 @@
 8. Kombinasi 4 Angka <br>
 9. Segitiga <br>
 10. Rangkaian Digit (UTS) <br>
+11. Luas Persegi Panjang <br>
+12. Kalkulator <br>
+13. Penjumlahan Semua Angka <br>
+14. Penjumlahan Digit Angka <br>
+15. Data Anak <br>
+16. Pilihan Menu (Array) <br>
+17. Menu Restoran <br>
+
 
