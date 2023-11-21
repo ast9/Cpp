@@ -21,5 +21,7 @@
 15. Data Anak <br>
 16. Pilihan Menu (Array) <br>
 17. Menu Restoran <br>
+18. Data Sekolah <br>
+19. Nama Orang <br>
 
 
